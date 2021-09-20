@@ -8,38 +8,44 @@ The mission of Knight Hacks is to develop the computer science skills of UCF stu
 
 ### **[Join our Discord!](https://discord.gg/W9uM5ESFCK)**
 
-## Tech Stack(s)
-<p>
-  <img src="https://img.shields.io/badge/Backend-Python-blueviolet?logoColor=white&logo=python">
-  <img src="https://img.shields.io/badge/Backend-Flask-blueviolet?logoColor=white&logo=flask">
-  <img src="https://img.shields.io/badge/Backend-MongoDB-blueviolet?logoColor=white&logo=mongodb">
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-blueviolet?logoColor=white&logo=javascript">
-  <img src="https://img.shields.io/badge/Frontend%20Framework-React.js-blueviolet?logoColor=white&logo=react">
-  <img src="https://img.shields.io/badge/Frontend%20CSS-TailwindCSS-blueviolet?logoColor=white&logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Mobile-TypeScript-blueviolet?logoColor=white&logo=typescript">
-  <img src="https://img.shields.io/badge/Mobile%20Framework-React%20Native-blueviolet?logoColor=white&logo=react">
-  <img src="https://img.shields.io/badge/Mobile%20Framework-Flutter-blueviolet?logoColor=white&logo=flutter">
-  <img src="https://img.shields.io/badge/Discord%20Bot-TypeScript-blueviolet?logoColor=white&logo=typescript">
-  <img src="https://img.shields.io/badge/Discord%20Bot%20Framework-discord.js-blueviolet?logoColor=white&logo=discord">
-</p>
-
 ## Our active projects right now:
 
 ### Web 🌎
+<p>
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-blueviolet?logoColor=white&logo=javascript">
+  <img src="https://img.shields.io/badge/Frontend%20Framework-React.js-blueviolet?logoColor=white&logo=react">
+  <img src="https://img.shields.io/badge/Frontend%20CSS-TailwindCSS-blueviolet?logoColor=white&logo=tailwindcss">
+</p>
 
 - https://github.com/KnightHacks/hackathon-2021-frontend
 - https://github.com/KnightHacks/club-site-2021
 
 ### Backend 📡
+<p>
+  <img src="https://img.shields.io/badge/Backend-Python-blueviolet?logoColor=white&logo=python">
+  <img src="https://img.shields.io/badge/Backend-Flask-blueviolet?logoColor=white&logo=flask">
+  <img src="https://img.shields.io/badge/Backend-MongoDB-blueviolet?logoColor=white&logo=mongodb">
+</p>
 
 - https://github.com/KnightHacks/hackathon-2021-backend
 
 ### Mobile 📱
+<p>
+  <img src="https://img.shields.io/badge/Mobile-TypeScript-blueviolet?logoColor=white&logo=typescript">
+  <img src="https://img.shields.io/badge/Mobile%20Framework-React%20Native-blueviolet?logoColor=white&logo=react">
+  <img src="https://img.shields.io/badge/Mobile-Dart-blueviolet?logoColor=white&logo=dart">
+  <img src="https://img.shields.io/badge/Mobile%20Framework-Flutter-blueviolet?logoColor=white&logo=flutter">
+</p>
 
 - https://github.com/KnightHacks/hackathon-app-2021
 - https://github.com/KnightHacks/club-app-2021
 
 ### Discord 👾
+<p>
+  <img src="https://img.shields.io/badge/Frontend-JavaScript-blueviolet?logoColor=white&logo=javascript">
+  <img src="https://img.shields.io/badge/Frontend%20Framework-React.js-blueviolet?logoColor=white&logo=react">
+  <img src="https://img.shields.io/badge/Frontend%20CSS-TailwindCSS-blueviolet?logoColor=white&logo=tailwindcss">
+</p>
 
 - https://github.com/KnightHacks/Lancelot
 - https://github.com/KnightHacks/scythe
