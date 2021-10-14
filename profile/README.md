@@ -42,9 +42,7 @@ The mission of Knight Hacks is to develop the computer science skills of UCF stu
 
 ### Discord 👾
 <p>
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-blueviolet?logoColor=white&logo=javascript">
-  <img src="https://img.shields.io/badge/Frontend%20Framework-React.js-blueviolet?logoColor=white&logo=react">
-  <img src="https://img.shields.io/badge/Frontend%20CSS-TailwindCSS-blueviolet?logoColor=white&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/TypeScript-blueviolet?logoColor=white&logo=typescript">
 </p>
 
 - https://github.com/KnightHacks/Lancelot
