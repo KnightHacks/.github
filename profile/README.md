@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/VrPizK2.png" alt="Knight Hacks Logo" width="700"/>
+  <img src="https://i.imgur.com/6osrY7S.jpeg" alt="Knight Hacks Logo" width="100%"/>
 </p>
 
 # Welcome to the Knight Hacks Repository
